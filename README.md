@@ -1,2 +1,5 @@
 # Twitter_analysis-of-BJ
 This describes the Demographic analysis of Twitter Users Allegation on Boris Johnson 
+Demographic analaysis of the tweeter user who express there opinon about the allegatation layed on Boris Johnson were extracted and analyse 
+For this study, we used the streaming API supplied by Twitter's developer account to gather daily tweets containing the keyword "BorisJohns Out" from December 8, 2021 to December 17, 2021, and only tweet in English Language were selected has the event take place in a English Society. This gives us about eight thousand eight hundred and seventy three (8873) tweet in the period of 10 days, the limitation in the period is due to restriction on unpaid Twitter developer account and also those period were the heat period of the event.
+All the visualization analysis was carried out using various python library namely; Plotly, Matplotlib, and Seaborn. Data wrangling, cleaning and manipulation were carried out using Pandas and Numpy library in Python.
